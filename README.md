@@ -1,4 +1,4 @@
-# Modelo de Predição Renda - Base do Censo Populacional
+# Modelo de Predição Renda - Base do Censo Populacional 💰
 
 ### Introdução:
 Este projeto utiliza análise de dados para prever a renda anual dos indivíduos com base em características socioeconômicas. Empresas como **Mercado Livre**, **Amazon** e **Netflix** aplicam modelos preditivos semelhantes para segmentar clientes e personalizar ofertas. O objetivo é prever se a renda de um indivíduo excede 50K dólares.
