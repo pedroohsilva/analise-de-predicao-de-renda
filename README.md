@@ -15,6 +15,7 @@ Este projeto utiliza análise de dados para prever a renda anual dos indivíduos
 
 | Etapa                                | Descrição                                                                                                           | Status de Progresso   | Data de Conclusão Estimada |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------------|
+| **Entender o Problema**               | Compreensão do problema a ser solucionado.                             | Concluído✅        | 23/03/2025                 |
 | **Extração dos Dados**               | Coleta e obtenção dos dados relevantes ao problema, proveniente do censo populacional.                               | Concluído✅        | 23/03/2025                 |
 | **Análise Exploratória**             | Exploração dos dados para identificar padrões, distribuição das variáveis e relações entre elas.                    | Concluído✅        | 23/03/2025                 |
 | **Pré-Processamento de Dados**       | Limpeza e tratamento dos dados, incluindo tratamento de valores ausentes, normalização e transformação de variáveis. | Concluindo🔄       | -                 |
